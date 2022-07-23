@@ -22,3 +22,10 @@ git commit -m "Your comments"
 
 git commit -a -m "Comments" (to commit all the files)
 
+
+Commnads to add the config user
+
+git config --global user.name "hamid"
+
+git config --global user.email 123@gmail.com
+
