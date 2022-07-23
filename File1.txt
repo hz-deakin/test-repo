@@ -14,7 +14,11 @@ Command to add the file to index
 
 git add <filename>
 
+git add -A to add all the files to index
+
 Command to commit the file to local repo
 
 git commit -m "Your comments"
+
+git commit -a -m "Comments" (to commit all the files)
 
