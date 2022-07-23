@@ -29,3 +29,10 @@ git config --global user.name "hamid"
 
 git config --global user.email 123@gmail.com
 
+------------------------------------------------------------
+
+
+Continous Integration 
+
+
+
