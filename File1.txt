@@ -1,1 +1,20 @@
-Hi I am the first file.
+Commands for GitHUb
+
+git init
+
+git add origin "https:"
+
+Command to pull the files from Remote Repo
+
+1: git pull origin master 
+
+Note: git pull <remote> <branch>
+
+Command to add the file to index 
+
+git add <filename>
+
+Command to commit the file to local repo
+
+git commit -m "Your comments"
+
